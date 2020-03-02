@@ -53,6 +53,7 @@ nav {
     position: absolute;
     width: 455px;
     height: 300px;
+    overflow : scroll
     /* background-color: lightblue; */
 }
 
